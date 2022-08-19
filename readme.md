@@ -12,16 +12,9 @@
 </span>
 
 ## How website looks like
-<img src =""/>
+<img src ="https://github.com/Swadhindhara/creativity-project-14/blob/main/completedScreenshot.jpg"/>
 
-## What I have learned in this project?
-- I have learned about background image positioning
-- I have learned about button styling
-- I have learned about z-index
-- Learnt transitioning properties and animation
-
-
-## This project took around 2.5 hours to complete .
+## This project took around 3 hours to complete .
 
 ## Connect Me
 
